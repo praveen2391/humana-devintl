@@ -1,0 +1,1 @@
+storage_account_container_name = "tfstate"
